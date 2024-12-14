@@ -1,2 +1,2 @@
 # JavaOOP
-Java OOP - юни 2024
+Java OOP - June 2024
